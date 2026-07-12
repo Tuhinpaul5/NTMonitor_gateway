@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Binaries
+ntmonitor_gateway
+main
+tmp/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config with credentials
+config.local.json
